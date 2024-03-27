@@ -1,0 +1,34 @@
+.App {
+  display: flex;
+}
+
+.input {
+    position: relative;
+    width: 95%;
+    height: 40vh;
+    padding: 20px;
+    outline: none;
+    top: 30px;
+    left: 17px;
+    font-size: 16px;
+}
+
+.output {
+    position: relative;  
+    width: 490px;
+    height: 40px;
+    top: 50px;
+    border-color: black;
+    padding: 12px 12px 12px 12px;
+}
+
+h1 {
+  position: relative;
+  left: 17px;
+}
+
+.toolbar {
+  position: relative;
+  left: 17px;
+
+}
