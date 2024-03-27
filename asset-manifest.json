@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quickmark/static/css/main.a253b7fc.css",
+    "main.js": "/quickmark/static/js/main.9f5199be.js",
+    "static/js/453.b3ca1edc.chunk.js": "/quickmark/static/js/453.b3ca1edc.chunk.js",
+    "static/media/logo.svg": "/quickmark/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/quickmark/index.html",
+    "main.a253b7fc.css.map": "/quickmark/static/css/main.a253b7fc.css.map",
+    "main.9f5199be.js.map": "/quickmark/static/js/main.9f5199be.js.map",
+    "453.b3ca1edc.chunk.js.map": "/quickmark/static/js/453.b3ca1edc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a253b7fc.css",
+    "static/js/main.9f5199be.js"
+  ]
+}
